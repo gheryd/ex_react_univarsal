@@ -3,9 +3,8 @@ exercise to learn react universal
 
 require: nodejs
 
-console command to start up: 
-npm install
+install dependencies: npm install
 
-npm start
+start project: npm start
 
 browser link: http://localhost:3000
