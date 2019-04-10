@@ -1,4 +1,4 @@
-# ex_react_univarsal
+# ex_react_universal
 exercise to learn react universal
 
 require: nodejs
